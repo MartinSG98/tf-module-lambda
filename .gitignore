@@ -1,0 +1,10 @@
+# OS droppings
+.DS_Store
+Thumbs.db
+
+# Terraform ephemeral data
+.terraform/
+
+# tf-module-lambda ephemeral package builds
+.lambda_build_cache/
+
